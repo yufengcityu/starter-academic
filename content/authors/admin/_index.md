@@ -26,11 +26,9 @@ organizations:
     url: https://www.cityu.edu.hk/
 education:
   courses: []
-email: ""
+email: yufengup@outlook.com
 superuser: true
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 highlight_name: false
 ---
 Yu FENG is currently working toward the Ph.D. degree in Department of Biomedical Engineering from City University of Hong Kong, Hong Kong SAR, China.
