@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: yfeng37-c@my.cityu.edu.hk
+    link: "#/contact"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/yufengup
