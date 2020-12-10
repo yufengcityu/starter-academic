@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Selected Publications"
+  name = "Projects"
   url = "#projects"
   weight = 30
 
