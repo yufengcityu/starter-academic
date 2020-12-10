@@ -2,39 +2,30 @@
 title: Yu FENG
 role: PhD Student in Robotics
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include microrobot, biorobot, soft robot and robot
+  control.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Microrobot
+  - Biorobot
+  - Robot Control
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: yfeng37-c@my.cityu.edu.hk
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/yufengup
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=smujSeoAAAAJ&hl=en&authuser=2
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/yufengcityu
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: City University of Hong Kong
+    url: https://www.cityu.edu.hk/
 education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  courses: []
 email: ""
 superuser: true
 user_groups:
@@ -42,7 +33,6 @@ user_groups:
   - Visitors
 highlight_name: false
 ---
+Yu FENG is currently working toward the Ph.D. degree in Department of Biomedical Engineering from City University of Hong Kong, Hong Kong SAR, China.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests include microrobotics, soft robots, and bio-inspired robots.
