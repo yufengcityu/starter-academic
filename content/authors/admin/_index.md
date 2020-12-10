@@ -25,7 +25,10 @@ organizations:
   - name: City University of Hong Kong
     url: https://www.cityu.edu.hk/
 education:
-  courses: []
+  courses:
+    - course: PhD student in Biomedical Engineering
+      institution: City University of Hong Kong
+      year: 2020
 email: yufengup@outlook.com
 superuser: true
 user_groups: []
